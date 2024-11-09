@@ -50,3 +50,11 @@ Anime-inspired dishes with vibrant, anime-styled visuals.
 - Expanded customization options for recipe themes
 - Support for additional anime art styles
 - Integration with other social media platforms
+
+
+## 📹 Video Demonstration
+
+Watch a demo of the Anime-Inspired Recipe Generator in action!
+https://github.com/0yoru0/anime-recipe-nutrition-app/blob/main/Project_Anime_Dish_Automation.mp4
+![Video Thumbnail](https://github.com/0yoru0/anime-recipe-nutrition-app/blob/main/Project_Anime_Dish_Automation.mp4)
+
